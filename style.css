@@ -1,0 +1,81 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+#name-color{
+    color:#FF1493;
+    font-size: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 8px 25px;
+    border-radius: 5px;
+    color: white; 
+}
+p{
+    color: dimgray;
+    margin-block-end: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 10%;
+    padding-bottom: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.top-banner01{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.half-width01{
+    width: 40%;
+    text-align: center;
+    padding-bottom: 2%;
+    
+}
+.size-image{
+    width: 20%;
+    float: left;
+    margin: 10px 10px 10px 10px;
+    padding: 40px;
+}
+.client-say{
+    margin-top: 50px;
+}
+h3{
+    font-size: 10px;
+    padding: 1px;
+}
+.padding{
+    padding: 10px;
+}
+.p-color{
+    color: black;
+}
+.alta-nellpoli{
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 8px 25px;
+    border-radius: 5px;
+    color: white;
+    
+    
+    
+
+}
+.grey-kor{
+    color: grey;
+    text-align: center;
+}
+
+
+
