@@ -1,5 +1,6 @@
 body{
     font-family: 'Lato', sans-serif;
+    margin: 0;
 }
 #name-color{
     color:#FF1493;
@@ -28,15 +29,11 @@ p{
     width: 100%;
 }
 .top-banner{
-    background-image: url(images/header-bg.png);
+    background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
-    width: 100%;
 }
-.top-banner01{
-    background-image: url(images/biography-bg.png);
-    background-repeat: no-repeat;
-    width: 100%;
-}
+
+
 .half-width01{
     width: 40%;
     text-align: center;
@@ -67,15 +64,21 @@ h3{
     padding: 8px 25px;
     border-radius: 5px;
     color: white;
-    
-    
-    
 
 }
 .grey-kor{
     color: grey;
     text-align: center;
 }
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.Biography-area{
+    background-image: url(images/biography-bg.png);
+}
 
-
+.footer-area{
+    background-image: url(images/footer-bg.png);
+}
 
